@@ -31,8 +31,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-char data[128]="";
-uint32_t data1=0;
+uint32_t data1=0;//data değişkenin tanımlıyoru
 	
 
 /* USER CODE END PD */
